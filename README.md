@@ -1,3 +1,6 @@
+#Deployed link :- 
+dynamic-kanban-board-red.vercel.app
+
 # Dynamic Kanban Board
 
 A lightweight, vanilla JavaScript Kanban board with three columns (To Do, In Progress, Done). Add tasks, drag them between columns, delete them, and have everything saved in your browser via localStorage. No frameworks required.
