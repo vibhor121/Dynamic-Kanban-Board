@@ -1,5 +1,6 @@
-#Deployed link :- 
-dynamic-kanban-board-red.vercel.app
+## Deployed Link
+[Click here to view the live project](https://dynamic-kanban-board-red.vercel.app)
+
 
 # Dynamic Kanban Board
 
