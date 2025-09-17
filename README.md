@@ -12,9 +12,6 @@ A lightweight, vanilla JavaScript Kanban board with three columns (To Do, In Pro
 - Auto-save to browser `localStorage`
 - Responsive layout (desktop and mobile)
 - Toast notifications for success/error/info
-- Keyboard shortcuts:
-  - Ctrl/Cmd + N: focus the task title input
-  - Escape: clear the title and description inputs
 
 ### Project Structure
 ```
